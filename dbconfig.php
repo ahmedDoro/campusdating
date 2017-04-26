@@ -2,10 +2,10 @@
 class Database
 {
      
-    private $host = "localhost";
-    private $db_name = "id1474749_campusdate";
-    private $username = "id1474749_campusdate";
-    private $password = "";
+    private $host = "br-cdbr-azure-south-b.cloudapp.net";
+    private $db_name = "campusdate";
+    private $username = "b5878316b539fe";
+    private $password = "8e5d969e";
     public $conn;
      
     public function dbConnection()
@@ -26,7 +26,7 @@ class Database
     }
 }
 $servername = "localhost";
-$username = "id1474749_campusdate";
-$password = "";
-$dbname = "id1474749_campusdate";
+$username = "b5878316b539fe";
+$password = "8e5d969e";
+$dbname = "campusdate";
 ?>
