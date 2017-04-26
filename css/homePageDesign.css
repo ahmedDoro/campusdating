@@ -1,0 +1,201 @@
+
+
+header
+{
+    text-align: left;
+}
+
+fieldset
+{
+    margin: 10px auto;
+    color: white;
+    font-size: 2em;
+    font-family: "Bradley Hand ITC";
+    font-weight: bold;
+}
+
+fieldset p
+{
+    display: inline;
+}
+
+.logo
+{
+    font-family: "Kunstler Script";
+    font-size: 2em;
+    color: red;
+}
+
+.header
+{
+    background: linear-gradient(to bottom right, black 20%, darkslategray 40%, darkgray 65%, lightgray);
+    margin: auto;
+    overflow: auto;
+}
+
+li a
+{
+    color: white;
+}
+
+a:hover
+{
+    background-color: darkgray;
+    color: blue;
+}
+
+.navbar-left
+{
+    margin-left: 15%;
+}
+
+.main
+{
+    background-color: black;
+    width: 100%;
+}
+
+img
+{
+    margin: 10% auto 5% auto;
+    width: 80%;
+}
+
+.nav-tabs
+{
+    margin-top: 10%;
+}
+
+.tab-content
+{
+
+    color: darkgray;
+    margin-bottom: 20%;
+}
+
+.icon-bar
+{
+    background-color: white;
+}
+
+.thumbnail
+{
+    margin: 0px;
+    height: 80px;
+    width: 80%;
+}
+
+.row-pics
+{
+    width: 90%;
+}
+
+@media screen and (max-width:990px)
+{
+    .row-pics
+    {
+        width: 50%;
+    }
+}
+
+.topics-box
+{
+    width: 85%;
+    margin: 10% auto 10% auto;
+    color: white;
+    background: linear-gradient(to bottom, black, darkslategray, lightgray);
+    opacity: 0.8;
+    padding: 5%;
+    text-align: center;
+}
+
+.topics-box h3
+{
+    color: blue;
+}
+
+.topics-box a
+{
+    color: white;
+}
+
+.recommended
+{
+    width: 80%;
+    margin: 10% auto 10% auto;
+    color: blue;
+    background: linear-gradient(to bottom, black, darkslategray, lightgray);
+    opacity: 0.8;
+    padding: 5%;
+    text-align: center;
+}
+
+.rec-person
+{
+    width: 35%;
+    margin: 5% auto;
+}
+
+#menu3 h4
+{
+    margin-top: 5%;
+    color: blue;
+}
+
+#menu3 p
+{
+    border-bottom: 1px solid white;
+}
+
+#home h3, #menu1 h3, #menu2 h1, #menu3 h3, #menu4 h3
+{
+    color:blue;
+}
+
+#menu1 button
+{
+    float: right;
+    color: blue;
+}
+
+#menu3 button, .row-pics button
+{
+    margin: 5%;
+    float: right;
+    color: blue;
+}
+
+#menu2 input
+{
+    float: right;
+    color: blue;
+}
+
+footer
+{
+    background-color: black;
+    text-align: center;
+    padding: 5%;
+}
+
+footer a
+{
+    color: lightgray;
+    margin: 10%;
+}
+
+footer a:hover
+{
+    color: deepskyblue;
+}
+
+.footer-a
+{
+    color: dimgray;
+}
+
+.footer-col1, .footer-col2
+{
+    height: 100%;
+    border-right: 1px solid grey;
+}

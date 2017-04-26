@@ -1,0 +1,167 @@
+body
+{
+    background-color: purple;
+}
+
+header
+{
+    width: 1400px;
+
+}
+
+header h1
+{
+    font-family: Arial Verdana serif;
+    font-size: 700%;
+    border-bottom: double;
+    border-color: white;
+    border-radius: 30px;
+    border-width: 4px;
+    color: white;
+    padding-bottom: 30px;
+    margin: 5px auto 10px auto;
+}
+
+header img
+{
+    min-width: 25px;
+    min-height: 25px;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 0px;
+    margin: 10px;
+}
+
+header p
+{
+    float: right;
+}
+
+#userDetails
+{
+    width: 1386px;
+    height: 200px;
+    padding: 5px;
+    border-bottom: 1px solid white;
+    margin: 20px auto 20px auto;
+    font-family: Arial Verdana serif;
+    font-size: 1.5em;
+
+    color: white;
+}
+
+a
+{
+    text-decoration: none;
+    color: aqua;
+}
+
+a:hover
+{
+    color: gold;
+    text-decoration: underline;
+}
+
+main
+{
+    width: 1400px;
+}
+
+#userDetails img
+{
+    float: left;
+}
+
+#userDetails
+{
+}
+
+
+#recommendationBox
+{
+
+    height: 400;
+    border: 2px solid white;
+    padding: 5px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+#recommendationBox li
+{
+    display: inline;
+    margin: auto 50px auto 50px;
+}
+
+#recommendationBox img
+{
+    width: 130px;
+    height: 130px;
+}
+
+#recommendationBox img:hover
+{
+    border: 2px solid gold;
+}
+
+footer
+{
+    text-align: center;
+    width: 1400px;
+}
+
+footer li
+{
+    display: inline;
+    margin: 50px;
+}
+
+#menu
+{
+    padding: 40px;
+    margin: 10px 200px 10px 200px;
+    width: 1300px;
+    height: 500px;
+    text-align: center;
+}
+
+#menu li
+{
+    padding: 40px;
+    margin: 10px auto 10px auto;
+
+    display: inline;
+}
+
+#first2
+{
+    float: left;
+    clear: both;
+    padding: 30px;
+    margin: 10px auto 30px auto;
+    vertical-align: bottom;
+}
+
+#second2
+{
+    float: left;
+    clear: both;
+    padding: 30px;
+    margin: 10px auto 10px auto;
+}
+
+#menu img
+{
+    min-width: 25px;
+    min-height: 25px;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 0px;
+    margin: 10px;
+    vertical-align: middle;
+}

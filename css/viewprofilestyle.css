@@ -1,0 +1,130 @@
+
+
+header
+{
+    text-align: left;
+}
+
+fieldset
+{
+    margin: 10px auto;
+    color: white;
+    font-size: 2em;
+    font-family: "Bradley Hand ITC";
+    font-weight: bold;
+}
+
+fieldset p
+{
+    display: inline;
+}
+
+.logo
+{
+    font-family: "Kunstler Script";
+    font-size: 2em;
+    color: red;
+}
+
+body
+{
+    background: linear-gradient(to bottom right, black 20%, darkslategray 40%, darkgray 65%, lightgray);
+    background-repeat: no-repeat;
+}
+
+
+
+.photos
+{
+    border: 1px solid black;
+    text-align: left;
+    opacity: 0.8;
+    margin: 5% auto;
+    width: 100%;
+}
+
+.carousel img {
+    width: 70%;
+    height: 200px;
+    max-width: none;
+    margin: 1px auto;
+}
+
+.item
+{
+    min-height: 300px;
+    max-height: 500px;
+    height: 200px;
+}
+
+.info th
+{
+    color: white;
+}
+
+.button button
+{
+    color: blue;
+    margin: 2%;
+}
+
+.btn right
+{
+    float: right;
+}
+
+.info p
+{
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.info h3
+{
+    color: blue;
+}
+
+.col-pics
+{
+    text-align: center;
+}
+
+.info
+{
+    padding: 2%;
+}
+
+.aboutme
+{
+    padding: 2%;
+    margin: 5% auto;
+}
+
+footer
+{
+    background-color: black;
+    text-align: center;
+    padding: 5%;
+}
+
+footer a
+{
+    color: lightgray;
+    margin: 10%;
+}
+
+footer a:hover
+{
+    color: deepskyblue;
+}
+
+.footer-a
+{
+    color: dimgray;
+}
+
+.footer-col1, .footer-col2
+{
+    border-right: 1px solid grey;
+    margin: 0%;
+}

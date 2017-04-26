@@ -1,0 +1,86 @@
+header
+{
+    text-align: left;
+}
+
+fieldset
+{
+    margin: 10px auto;
+    color: white;
+    font-size: 2em;
+    font-family: "Bradley Hand ITC";
+    font-weight: bold;
+}
+
+fieldset p
+{
+    display: inline;
+}
+
+.logo
+{
+    font-family: "Kunstler Script";
+    font-size: 2em;
+    color: red;
+}
+
+.form-control
+{
+    width: 40%;
+    margin: 10px auto;
+
+}
+
+form
+{
+    text-align: center;
+    color: blue;
+}
+
+
+
+legend
+{
+    width: 60%;
+    color: white;
+    font-size: 1em;
+    font-family: Arial;
+}
+
+
+body
+{
+    background: linear-gradient(to bottom, black, darkslategray, lightgray);
+   color: white;
+}
+
+.container
+{
+    background-color: black;
+    width: 90%;
+    maring: 10px auto;
+}
+
+label
+{
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 0.5em;
+}
+
+.btn
+{
+    color: blue;
+}
+
+.bk
+{
+    float: left;
+    clear: left;
+}
+
+.su
+{
+    float: right;
+    clear: right;
+}

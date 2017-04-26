@@ -1,0 +1,459 @@
+
+body{
+          
+           margin-left:-0%;
+           margin-top:-02%;
+           margin-right:-0%;
+           background-color:;
+           
+		   }
+		   
+		   #header{
+          background-color:orange;
+          width:1262px; 
+          height:80px;
+          }
+		  
+		  #header_text{
+
+          color:white; 
+          font-size:33px;
+
+          }
+
+         h1{
+
+          padding:8;
+          background-color:blue;
+          
+		  }
+
+         h1{
+         color:black;
+         margin-left:-0%;
+         margin-top:-02%;
+         margin-right:-0%;
+
+		}
+
+         h5{
+         position:absolute;
+         left:1184px;
+         top:625px;
+         color:green;
+         background-color:;
+        
+		} 
+
+        
+     #user_info{
+        position:absolute;
+        width:1000px;
+        height:167px;
+         background-color:white;
+        margin:2px 0px 0px 200px;
+  
+    
+        }
+		
+		#view_friends{
+		background-color:white;
+        border: 2px solid white;
+       -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+        overflow: visible;
+        position: relative;
+        top:262px;
+        margin-left: 200px;
+        width:400px;
+        border-radius:3px;
+		
+		}
+		
+		#view_friends a{
+		text-decoration:none;
+		}
+		
+		#friend_header{
+		background-color:white;
+        border: 2px solid white;
+       -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+        overflow: visible;
+        position:absolute;
+        top:302px;
+        margin-left: 200px;
+        width:400px;
+		height:30px;
+        border-radius:5px;
+		
+		}
+		
+		#post_header{
+		background-color:white;
+        
+        position:absolute;
+        top:302px;
+        margin-left: 660px;
+        width:500px;
+		height:30px;
+        border-radius:5px;
+		}
+		
+		/*below is to style the post div  */
+		
+		
+		
+#comment_Container a:hover{
+     text-decoration:none;
+      color:red;
+	 }
+	 
+	 
+#comment_Container  a{
+     text-decoration:none;
+
+	 }
+
+
+
+#comment_Container {
+background-color:grey;
+border: 2px solid #ccc;
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+
+width:500px;
+border-radius:3px;
+}
+
+
+#comment_body {
+
+min-height:40px;
+position: relative;
+border:0px;
+background-color:#ccc;
+font-size:20px;
+}
+
+#add_comment_field{
+position:absolute;
+margin:10px 0px 0px 9px;
+width:360px;
+height:28px;
+}
+
+#comment_button{
+position:absolute;
+margin:11px 0px 0px 379px;
+width:60px;
+height:32px;
+border:0px solid #ccc;
+background-color:blue;
+color:white;
+}
+
+		
+ #button_style{
+color:white;
+background-color:green;  
+border:0px solid #ccc;
+border-radius:3px;
+margin:-49px 0px 0px 190px;
+
+}
+
+#button_style1{
+color:white;
+background-color:blue;  
+border:0px solid #ccc;
+border-radius:3px;
+margin:-35px 0px 0px 190px;
+width:130px;
+ height:35px;"
+}		
+
+
+#profile_pic{
+
+width:170px; 
+height:170px;
+ position:absolute; 
+margin:30px 0px 0px 6px;
+
+}
+
+
+#view_user_pic{
+
+height:160px; 
+width:170px; 
+position:relative; 
+left:10px; 
+top:4px; 
+
+}
+
+#position_view_user_name{
+
+ position:absolute; 
+ left:190px; 
+ top:-15px; 
+ color:black;
+}
+
+#position_view_user_email{
+
+position:absolute; 
+left:190px; 
+top:12px;
+color:black;
+}
+
+
+#position_view_user_date{
+
+position:absolute; 
+left:190px;
+top:42px;
+color:black;
+}
+
+
+#position_view_user_month{
+
+position:absolute; 
+left:190px; 
+top:69px; 
+color:black;
+}
+
+
+#position_view_user_year{
+
+position:absolute; 
+left:190px; 
+top:95px;
+color:black;
+}
+
+
+.friend_div{
+width:130px; 
+height:35px;
+top:8px; 
+left:35px;
+ position:relative;'
+color:black;
+}
+
+#add_friend{
+text-decoration:none;
+
+}
+
+
+#styling_meaasage_header{
+position:absolute;
+ left:555px; 
+ top:-11px;
+ color:blue;
+ font-size:23px;
+}
+
+.profile_image{
+
+height:40px; width:40px; 
+position:absolute;
+
+}
+
+#styling_message_form{
+
+left:550px; 
+top:40px; 
+color:red; 
+position:absolute;
+
+}
+
+
+#styling_header_text{
+
+position:relative;
+ left:5px; 
+ top:-11px;
+ color:blue;'
+
+}
+
+#user_header_name{
+
+position:relative; 
+left:5px; 
+top:-11px;
+ color:blue;'
+
+}
+
+#birth_day{
+position:absolute; 
+left:400px; 
+top:-55px;
+color:black;
+}
+
+
+#birthday_1{
+
+position:absolute; 
+left:400px; 
+top:15px;
+color:black;
+}
+
+
+
+
+
+#view_user_post_div{
+
+position:absolute; 
+top:365px; 
+left:-3px;
+}
+
+#comment_Container{
+position:relative; 
+top:-20px; 
+left:660px;
+
+}
+
+#profile_photo{
+
+height:70px; width:70px; 
+position:absolute; 
+margin:-56px 0px 0px 3px;
+ border:1px;
+
+}
+
+#user_names{
+
+color:blue; 
+position:absolute; 
+margin:-61px 0px 0px 80px; 
+font-size:19px;
+}
+
+#post_text{
+color:#000000; 
+margin:-36px 0px 0px 80px; 
+
+}
+
+
+#count_like{
+color:grey;
+ font-size:12px; 
+ margin:-50px 0px 0px 375px;
+
+}
+
+#count_dislike{
+color:grey; 
+font-size:12px; 
+margin:-17px 0px 0px 430px;
+
+}
+
+#show_likes{
+
+color:blue;
+ font-size:13px; 
+ margin:72px 0px 0px 13px;
+ position:absolute;
+}
+
+#show_dislikes{
+color:blue; 
+font-size:13px; 
+margin:72px 0px 0px 37px; 
+position:absolute;
+
+}
+
+#view_share_photo{
+
+height:308px; 
+width:395px; 
+left:80px; 
+top:-37px; 
+position:relative; 
+border:1px solid black;
+
+}
+
+#photo_likes{
+
+color:blue; 
+font-size:13px;
+ margin:289px 0px 0px -315px; 
+position:absolute;
+
+}
+
+#photo_dislikes{
+
+color:blue; 
+font-size:13px; 
+margin:289px 0px 0px -275px;
+ position:absolute;
+}
+
+
+#show_Photo_like{
+
+color:grey; 
+font-size:12px; 
+margin:-373px 0px 0px 375px; 
+position:absolute;
+
+}
+
+#show_Photo_dislike{
+
+color:grey; 
+font-size:12px; 
+margin:-373px 0px 0px 430px; 
+position:absolute;
+}
+
+
+#user_comment_photo{
+margin:13px 0px 0px 3px;
+border:1px solid black;
+height:40px;
+ width:40px;
+}
+
+#user_comment_info{
+color:white; 
+margin:-45px 0px 0px 55px; 
+font-size:20px; 
+
+}
+
+#comment_text{
+position:relative; 
+overflow: visible; 
+margin:5px 0px 0px 57px;
+
+}
+
+#comment_user_info{
+height:40px; 
+width:40px;
+margin:8px 0px 0px 3px;
+
+}
